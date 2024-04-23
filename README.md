@@ -1,23 +1,27 @@
-# Linear Regression Model
+# Machine Learning Model Implementations
 
-### first if you want to see all the theories of the linear regression you can tack a lock on this notebook here: 
-- [Linear Regression Model Understanding the process](https://www.kaggle.com/code/hassaneskikri/linear-regression-understanding-the-process)
+## Overview
+This repository contains a collection of fundamental machine learning algorithms implemented from scratch. These implementations serve as a practical reference for understanding the mechanics behind some of the most popular machine learning models.
 
+## Models Included
+- **Linear Regression**: Implementation of linear regression model for predicting continuous outcomes.
+- **Logistic Regression**: Implementation of logistic regression for binary classification tasks.
+- **Linear and Logistic Regression Combined**: A combined implementation to compare linear and logistic regression models.
+- **k-Nearest Neighbors (kNN)**: A lazy learning algorithm that classifies data points based on the k-nearest neighbors.
+- **Decision Tree**: Construction of a decision tree for classification tasks.
+- **Random Forest**: An ensemble of decision trees to improve prediction accuracy and control over-fitting.
+- **Support Vector Machine (SVM)**: An SVM implementation for finding the optimal hyperplane for classification tasks.
 
-- [Multiple linear regresiion understanding the precess](https://www.kaggle.com/code/hassaneskikri/multiple-linear-reg-understanding-the-process)
+## Getting Started
 
-- [polynomial regression](https://www.kaggle.com/code/hassaneskikri/multiple-linear-reg-understanding-the-process)
+### Prerequisites
+Ensure you have Python installed on your machine, as well as the following libraries:
+- NumPy
+- Pandas
+- Scikit-learn (for dataset loading and model comparison)
 
-### some therminology about linear regression:
-
--
-- 
-- 
-
-### here is the code for the linear regression:
-
-
-
-# logistic regression model 
-
-- [logistic regression in machine learning ](https://www.kaggle.com/code/hassaneskikri/logistic-regression-in-machine-learning)
+### Installing
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/HassaneSkikri/Machine_Learning_Algorithme_From_Scratch.git
+cd /Machine_Learning_Algorithme_From_Scratch
